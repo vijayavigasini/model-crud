@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "UserId": 1,
+      "Id": 1,
+      "title": "Lesson1",
+      "body": "Social Media Content: 10 Types to Get You More Engagement.Social media content is pretty much anything you share on social media, whether it's a text update, a photo, graphic, video, link, etc."
+    },
+    {
+      "UserId": 2,
+      "Id": 2,
+      "title": "Lesson1",
+      "body": "Social Media Content: 10 Types to Get You More Engagement.Social media content is pretty much anything you share on social media, whether it's a text update, a photo, graphic, video, link, etc."
+    },
+    {
+      "UserId": 3,
+      "Id": 3,
+      "title": "Lesson1",
+      "body": "Social Media Content: 10 Types to Get You More Engagement.Social media content is pretty much anything you share on social media, whether it's a text update, a photo, graphic, video, link, etc."
+    }
+  ]
+}
